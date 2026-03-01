@@ -1,2 +1,2 @@
-# docker-workshop-zoomcamp
-Codespaces Workshop from Zoomcamp Data Engineering - Module 1
+# data-engineering-zoomcamp
+
